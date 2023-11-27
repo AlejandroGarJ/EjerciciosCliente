@@ -22,3 +22,7 @@ function mostrarInformacion(){
                                  );
 
 }
+
+function irAtras(){
+    history.back();
+}
